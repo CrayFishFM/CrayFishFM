@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi Im CrayfishFM
 
-<!--
-**CrayFishFM/CrayFishFM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Discord](https://img.shields.io/badge/Discord-Meth%20Is%20Good%235828-green)
 
-Here are some ideas to get you started:
+## I Develop Fivem Scripts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 I'm currently working on: [FlatlineRP](https://github.com/CrayFishFM/FlatlineRP)
+- 📖 I am a huge fan of open source projects.
+- 🥅 2022/2023 Goals: Release my first project. 
+
+### Connect with me:
+
+[<img align="left" alt="ThymonA | Mail" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/regular/envelope.svg" />][mail]
+
+<br />
+
+---
+
+### 📕 Stats
+
+<img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CrayFishFM&show_icons=true&theme=buefy&locale=en&title_color=a600ff&icon_color=ff0088&text_color=32004d" />
+
+[mail]: mailto:mistercrayfish08@gmail.com
+[repos]: https://github.com/CrayFishFM?tab=repositories
