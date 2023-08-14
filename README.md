@@ -1,6 +1,7 @@
 ### Hi Im CrayfishFM
 
-![Discord](https://img.shields.io/badge/Discord-Meth%20Is%20Good%235828-green)
+![Static Badge](https://img.shields.io/badge/Discord%3A-crayfishfm-green)
+
 
 ## I develop scripts.
 
