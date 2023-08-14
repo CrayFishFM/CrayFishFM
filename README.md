@@ -9,8 +9,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ThymonA | Mail" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/regular/envelope.svg" />][mail]
-
 <br />
 
 ---
