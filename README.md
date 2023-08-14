@@ -9,8 +9,6 @@
 
 ### Connect with me:
 
-<br />
-
 ---
 
 ### 📕 Stats
