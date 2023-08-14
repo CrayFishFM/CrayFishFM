@@ -2,11 +2,10 @@
 
 ![Discord](https://img.shields.io/badge/Discord-Meth%20Is%20Good%235828-green)
 
-## I Develop Fivem Scripts.
+## I develop scripts.
 
 - 👨‍💻 I'm currently working on: [FlatlineRP](https://github.com/CrayFishFM/FlatlineRP)
 - 📖 I am a huge fan of open source projects.
-- 🥅 2022/2023 Goals: Release my first project. 
 
 ### Connect with me:
 
